@@ -1,0 +1,12 @@
+# Ignore local DB
+tasks.db
+
+# Replit-specific files
+.pythonlibs/
+.replit
+.upm/
+
+# Optional: other environment/system clutter
+__pycache__/
+*.pyc
+.env
